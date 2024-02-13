@@ -1,0 +1,25 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+    color: black !important;
+}
+
+ul li{
+    list-style-type: none;
+    cursor: pointer;
+}
+
+
+.page{
+    background-color: rgb(210, 214, 214);
+    
+}
+
+.para{
+    
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.profile{
+    background-image: url('./banner.jpg');
+    background-size: cover;
+}
